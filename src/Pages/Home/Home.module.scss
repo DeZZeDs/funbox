@@ -1,0 +1,11 @@
+.wrapper {
+  background: url("../../Assets/Images/Pattern.png");
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  @media screen and(max-width: 1200px){
+    height: 100%;
+  }
+}

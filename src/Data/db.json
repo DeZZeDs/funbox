@@ -1,0 +1,40 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Нямушка",
+      "taste": "с фуа-гра",
+      "description": "Сказочное заморское яство",
+      "serving": "10",
+      "giftCount": "",
+      "giftText": "мышь в подарок",
+      "weight": "0,5",
+      "available": true,
+      "selectedText": "Печень утки разварная с артишоками."
+    },
+    {
+      "id": 2,
+      "title": "Нямушка",
+      "taste": "с рыбой",
+      "description": "Сказочное заморское яство",
+      "serving": "40",
+      "giftCount": "2",
+      "giftText": "мыши в подарок",
+      "weight": "2",
+      "available": true,
+      "selectedText": "Головы щучьи с чесноком да свежайшая сёмгушка"
+    }
+    ,{
+      "id": 3,
+      "title": "Нямушка",
+      "taste": "с курой",
+      "description": "Сказочное заморское яство",
+      "serving": "100",
+      "giftCount": "5",
+      "giftText": "мышей в подарок заказчик доволен",
+      "weight": "5",
+      "available": false,
+      "selectedText": ""
+    }
+  ]
+}
